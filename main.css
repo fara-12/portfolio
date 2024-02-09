@@ -1,0 +1,116 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+#noor12
+{
+    margin-left: 200px;
+}
+#janan
+{
+    height: 450px;
+    width: 100%;
+}
+#kjo
+{
+    margin-top: 20px;
+    height: 400px;
+    border-radius: 400px;
+}
+#loko
+{
+    height: 150px;
+    width: 100%;
+    background-color: rgb(27, 28, 28);
+    border-radius: 250px;
+}
+#lkj
+{
+    padding-left: 30px;
+    padding-top: 40px;
+    color: azure;
+}
+#lkj:hover
+{
+    color: black;
+}
+#loko:hover{
+    background-color: green;
+}
+#mirwais
+{
+    height: 150px;
+    width: 100%;
+    background-color: rgb(201, 49, 32);
+    border-radius: 400px;
+}
+#mirwais:hover{
+    background-color: white;
+}
+#janali
+{
+    height: 150px;
+    width: 100%;
+    background-color: rgb(18, 162, 18);
+    border-radius: 250px;
+}
+
+#janali:hover{
+    background-color: black;
+}
+#omid21
+{
+  margin-left: 40px;
+  padding-top: 40px;
+  color: white;
+}
+#omid21:hover
+{
+    color: rgb(22, 43, 150);
+}
+#omid32
+{
+    padding-left: 40px;
+    padding-top: 40px;
+    color: black;
+}
+#omid32:hover{
+color: aquamarine;
+}
+#madi{
+padding-left: 150px;
+padding-top: 200px;
+}
+#jan
+{
+    padding-left: 100px;
+}
+#jhg
+{
+    margin-left: 120px;
+    margin-top: 50px;
+}
+#fgs
+{
+    margin-top: 60px;
+}
+#fgd
+{
+    padding-left: 300px;
+    padding-top: 150px;
+}
+#uiy{
+    margin-left: 300px;
+}
+#oiu
+{
+    margin-left: 200px;
+    font-family: 'Courier New', Courier, monospace;
+    margin-top: 250px;
+}
+#opi
+{
+    margin-left: 200px;
+    font-family: 'Courier New', Courier, monospace;
+}
